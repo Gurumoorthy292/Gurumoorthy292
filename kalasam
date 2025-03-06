@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TABLE</title>
+    <body bgcolor="solid BLACK;">
+    <table border="2px SOLID BLACK;style;style background color=green;">
+      <caption border="3PX SOLID BLUE"><B>KALASAM</B></caption>
+      <tr>
+        <th>Good habits</th>
+        <th>Bad habits</th>
+        <th>Very Bad habits</th>
+      </tr>
+      <tr>
+        <td rowspan="4"><b>NOTHING</b></td>
+      </tr>
+      <tr>
+        <td colspan="2">PERVERT</td>
+        
+        
+      </tr>
+      <tr>
+        <td colspan="2">Dumb</td>
+      </tr>
+      <tr>
+        <td colspan="2">STUBBORN</td>
+      </tr>
+      
+      
+    </table>
+    
+  </body>
+</html>
