@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4nHN1SRn/file-00000000862061f7b91d275b51aa3c7e.png" alt="Tech Banner" width="80%" />
+<img src="https://i.ibb.co/4nHN1SRn/file-00000000862061f7b91d275b51aa3c7e.png" alt="Tech Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm V Gurumoorthy</h1>
 <h3 align="center">Electronics and Communication Engineering Student | Web Developer | Tech Enthusiast</h3>
